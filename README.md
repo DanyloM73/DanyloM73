@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=FFFFFF&background=49FF2B00&width=435&lines=May+luck+be+with+you+%F0%9F%8D%80;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-<img src="https://i.gifer.com/77vm.gif" alt="Pixel Art" align="right" width="300">
+<img src="https://i.gifer.com/77vm.gif" alt="Pixel Art" align="right" width="250">
 
 ### Technologies and tools:
 
