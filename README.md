@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=FFFFFF&background=49FF2B00&width=435&lines=May+luck+be+with+you+%F0%9F%8D%80;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-<img src="https://darkintheboy.com/wp-content/uploads/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" alt="Pixel Art" align="right" width="250">
+<img src="https://darkintheboy.com/wp-content/uploads/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
