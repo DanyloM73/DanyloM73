@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=FFFFFF&background=49FF2B00&width=435&lines=May+luck+be+with+you+%F0%9F%8D%80;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-###
-
 <h1 align="left">Tech Stack</h1>
 
 ###
@@ -123,6 +121,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://pa1.aminoapps.com/6344/b6217f5fe1da63ee2ed8654c33874d3b7333f70b_hq.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/malanin-danylo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -136,10 +140,6 @@
   <a href="https://discordapp.com/users/460434181776736296/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</div>
-
-<div align="right">
-  <img height="200" src="https://pa1.aminoapps.com/6344/b6217f5fe1da63ee2ed8654c33874d3b7333f70b_hq.gif"  />
 </div>
 
 ###
