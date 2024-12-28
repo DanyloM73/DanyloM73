@@ -115,8 +115,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="200" src="https://pa1.aminoapps.com/6344/b6217f5fe1da63ee2ed8654c33874d3b7333f70b_hq.gif"  />
 
 ###
