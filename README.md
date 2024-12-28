@@ -4,9 +4,7 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="left">Android</h2>
+<h3 align="left">Android</h3>
 
 ###
 
@@ -24,7 +22,7 @@
 
 ###
 
-<h2 align="left">IOS</h2>
+<h3 align="left">IOS</h3>
 
 ###
 
@@ -36,7 +34,7 @@
 
 ###
 
-<h2 align="left">Web</h2>
+<h3 align="left">Web</h3>
 
 ###
 
@@ -62,7 +60,7 @@
 
 ###
 
-<h2 align="left">Other</h2>
+<h3 align="left">Other</h3>
 
 ###
 
@@ -80,7 +78,7 @@
 
 ###
 
-<h2 align="left">Editors</h2>
+<h3 align="left">Editors</h3>
 
 ###
 
@@ -95,8 +93,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h1 align="left">GitHub Stats</h1>
 
