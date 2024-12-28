@@ -20,7 +20,7 @@
 
 <div style="display: flex; justify-content: center;">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyloM73&layout=compact&langs_count=7&theme=one_dark_pro"/>
-    <img height="200px" src="https://pa1.aminoapps.com/6344/b6217f5fe1da63ee2ed8654c33874d3b7333f70b_hq.gif"/>
+    <img height="200px" style="margin-left: 10px; border-radius: 5px;" src="https://pa1.aminoapps.com/6344/b6217f5fe1da63ee2ed8654c33874d3b7333f70b_hq.gif"/>
 </div>
     
 ## Contacts:
