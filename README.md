@@ -20,7 +20,7 @@
 
 <div style="display: flex; justify-content: center;">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyloM73&layout=compact&langs_count=7&theme=one_dark_pro"/>
-    <img height="200px" src="https://media.tenor.com/XnvvtsYx4-QAAAAM/reina-izumi-reina-izumi-gif.gif"/>
+    <img height="200px" src="https://wanabrar.wordpress.com/wp-content/uploads/2016/01/666-7.gif?w=550&h=309"/>
 </div>
     
 ## Contacts:
