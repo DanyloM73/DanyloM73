@@ -20,7 +20,7 @@
 
 <div style="display: flex; justify-content: center;">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyloM73&layout=compact&langs_count=7&theme=one_dark_pro"/>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DanyloM73&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="200px" src="https://media.tenor.com/XnvvtsYx4-QAAAAM/reina-izumi-reina-izumi-gif.gif"/>
 </div>
     
 ## Contacts:
