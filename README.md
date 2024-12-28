@@ -111,12 +111,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DanyloM73/DanyloM73/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Socials</h1>
 
 ###
