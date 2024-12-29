@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=12BE2AFF&background=49FF2B00&width=435&lines=May+luck+be+with+you+%F0%9F%8D%80;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-<h1 align="left">💻Tech Stack</h1>
+<h1 align="left">💻 Tech Stack</h1>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<h1 align="left">📊GitHub Stats</h1>
+<h1 align="left">📊 GitHub Stats</h1>
 
 ###
 
@@ -111,7 +111,7 @@
 
 ###
 
-<h1 align="left">🌐Socials</h1>
+<h1 align="left">🌐 Socials</h1>
 
 ###
 
