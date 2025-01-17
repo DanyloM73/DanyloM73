@@ -105,6 +105,8 @@
 
 ###
 
+<h6>Profile views:</h6>
+
 <div align="left">
   <img src="https://profile-counter.glitch.me/DanyloM73/count.svg?"  />
 </div>
