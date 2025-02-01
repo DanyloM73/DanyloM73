@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/realm/realm-original.svg" height="45" width="45" alt="realm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/realm/realm-original.svg" height="45" width="50" alt="realm logo" />
 </div>
 
 ###
