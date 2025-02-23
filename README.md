@@ -109,7 +109,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanyloM73&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyloM73&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
 
 ###
 
