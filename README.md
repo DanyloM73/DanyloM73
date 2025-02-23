@@ -110,6 +110,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyloM73&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanyloM73&show_icons=true&theme=tokyonight" height="150" alt="stats" />
+</div>
 
 ###
 
