@@ -119,7 +119,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/zVg96FmiST0AAAAM/anime-love.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/zVg96FmiST0AAAAM/anime-love.gif"  />
 
 <div>
   <a href="mailto:danyamalanin7@gmail.com" target="_blank">
