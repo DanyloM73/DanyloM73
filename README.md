@@ -119,7 +119,7 @@
 
 ###
 
-<img align="right" height="200" src="https://pa1.aminoapps.com/6344/b6217f5fe1da63ee2ed8654c33874d3b7333f70b_hq.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/zVg96FmiST0AAAAM/anime-love.gif"  />
 
 <div>
   <a href="mailto:danyamalanin7@gmail.com" target="_blank">
