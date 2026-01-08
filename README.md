@@ -26,7 +26,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="45" alt="apple logo"  />
-  <img width="12" />
+  <img dth="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="45" alt="swift logo"  />
 </div>
 
@@ -119,7 +119,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/zVg96FmiST0AAAAM/anime-love.gif"  />
+<img align="right" height="150" width="150" src="https://media.tenor.com/zVg96FmiST0AAAAM/anime-love.gif"  />
 
 <div>
   <a href="mailto:danyamalanin7@gmail.com" target="_blank">
