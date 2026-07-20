@@ -15,6 +15,8 @@
 * 🧪 Interested in automated testing and maintainable application architecture
 * 🌱 Exploring **Flutter**, **Dart**, **Swift** and cross-platform development
 
+<br clear="right"/>
+
 ---
 
 ## 🛠️ Languages and Tools
