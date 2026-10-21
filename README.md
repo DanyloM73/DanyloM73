@@ -49,7 +49,7 @@
   </a>
   &nbsp;
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="45" height="45"/>
+    <img src="assets/icons/swift.svg" alt="Swift" width="45" height="45"/>
   </a>
 </p>
 
@@ -78,11 +78,11 @@
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+    <img src="assets/icons/javascript.svg" alt="JavaScript" width="45" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+    <img src="assets/icons/typescript.svg" alt="TypeScript" width="45" height="45"/>
   </a>
   &nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
@@ -130,11 +130,11 @@
   </a>
   &nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+    <img src="assets/icons/bash.svg" alt="Bash" width="45" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
+    <img src="assets/icons/npm.svg" alt="npm" width="45" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -166,7 +166,7 @@
   </a>
   &nbsp;
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" width="45" height="45"/>
+    <img src="assets/icons/xcode.svg" alt="Xcode" width="45" height="45"/>
   </a>
 </p>
 
@@ -176,12 +176,12 @@
 
 <div align="center">
   <img
-    width="49%"
+    height="180"
     src="https://github-stats-extended.vercel.app/api?username=DanyloM73&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="Danylo's GitHub statistics"
   />
   <img
-    width="41%"
+    height="180"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanyloM73&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Most used languages"
   />
@@ -202,4 +202,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
